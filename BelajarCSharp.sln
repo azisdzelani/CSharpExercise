@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassObject", "ClassObject\ClassObject.csproj", "{DA88C96F-F348-43D5-97D0-9C29E54842F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PewarisanDanPolimorfisme", "PewarisanDanPolimorfisme\PewarisanDanPolimorfisme.csproj", "{B49E542E-FB4E-49F2-BD89-4A9F1F901ED9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertiDanPengindeks", "PropertiDanPengindeks\PropertiDanPengindeks.csproj", "{F6B29DB8-D17E-415B-B07F-537808F547DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String", "String\String.csproj", "{15BAEAC6-72CC-4D9C-B793-C3D2D955E239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegasiMetodeEkpresiLamda", "DelegasiMetodeEkpresiLamda\DelegasiMetodeEkpresiLamda.csproj", "{1972A5B7-BF99-4845-824D-ADF9BD21B208}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{F4BA49FF-BE9C-47AC-B683-55700347C7A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PenangananEksepsi", "PenangananEksepsi\PenangananEksepsi.csproj", "{DFC50414-53E4-47ED-B93B-DC8AB8B74BA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA88C96F-F348-43D5-97D0-9C29E54842F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA88C96F-F348-43D5-97D0-9C29E54842F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA88C96F-F348-43D5-97D0-9C29E54842F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA88C96F-F348-43D5-97D0-9C29E54842F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B49E542E-FB4E-49F2-BD89-4A9F1F901ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B49E542E-FB4E-49F2-BD89-4A9F1F901ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B49E542E-FB4E-49F2-BD89-4A9F1F901ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B49E542E-FB4E-49F2-BD89-4A9F1F901ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6B29DB8-D17E-415B-B07F-537808F547DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B29DB8-D17E-415B-B07F-537808F547DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B29DB8-D17E-415B-B07F-537808F547DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B29DB8-D17E-415B-B07F-537808F547DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15BAEAC6-72CC-4D9C-B793-C3D2D955E239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15BAEAC6-72CC-4D9C-B793-C3D2D955E239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15BAEAC6-72CC-4D9C-B793-C3D2D955E239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15BAEAC6-72CC-4D9C-B793-C3D2D955E239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1972A5B7-BF99-4845-824D-ADF9BD21B208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1972A5B7-BF99-4845-824D-ADF9BD21B208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1972A5B7-BF99-4845-824D-ADF9BD21B208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1972A5B7-BF99-4845-824D-ADF9BD21B208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4BA49FF-BE9C-47AC-B683-55700347C7A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4BA49FF-BE9C-47AC-B683-55700347C7A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4BA49FF-BE9C-47AC-B683-55700347C7A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4BA49FF-BE9C-47AC-B683-55700347C7A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC50414-53E4-47ED-B93B-DC8AB8B74BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC50414-53E4-47ED-B93B-DC8AB8B74BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC50414-53E4-47ED-B93B-DC8AB8B74BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC50414-53E4-47ED-B93B-DC8AB8B74BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
