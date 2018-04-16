@@ -11,7 +11,9 @@ namespace FileDanDirektori
         static void Main(string[] args)
         {
             MembuatFileDanDirektori me = new MembuatFileDanDirektori();
-            me.DemoFile1();
+            WriteAllLines wa = new WriteAllLines();
+            //me.DemoFile1();
+            wa.DemoWriteAllLines();
 
             Console.ReadLine();
         }
