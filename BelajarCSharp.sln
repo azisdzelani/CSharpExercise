@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Inte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PenangananEksepsi", "PenangananEksepsi\PenangananEksepsi.csproj", "{DFC50414-53E4-47ED-B93B-DC8AB8B74BA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDanDirektori", "FileDanDirektori\FileDanDirektori.csproj", "{962A746C-8615-4F61-BB6A-7DB567C46F01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{DFC50414-53E4-47ED-B93B-DC8AB8B74BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFC50414-53E4-47ED-B93B-DC8AB8B74BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFC50414-53E4-47ED-B93B-DC8AB8B74BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{962A746C-8615-4F61-BB6A-7DB567C46F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962A746C-8615-4F61-BB6A-7DB567C46F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962A746C-8615-4F61-BB6A-7DB567C46F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962A746C-8615-4F61-BB6A-7DB567C46F01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
