@@ -20,14 +20,20 @@ namespace PenangananEksepsi
         }
         
     */
-    class Program 
+    class Program
     {
         static void Main(string[] args)
         {
-            DemoException1();
-            Console.WriteLine();
-            DemoException2();
-            Console.ReadKey();
+            //DemoException1();
+            //Console.WriteLine();
+            //DemoException2();
+            //Console.ReadKey();
+
+            // Contoh Clausa Finally
+            DemoEksepsi de = new DemoEksepsi();
+            de.DemoPenggunaanFinally();
+
+            Console.ReadLine();
         }
 
         static void DemoException1()
@@ -83,8 +89,12 @@ namespace PenangananEksepsi
                 while ((baris = file.ReadLine()) != null)
                 {
                     A[i] = Int32.Parse(baris);
-                    Console.WriteLine("A[{0}] : ", A)
+                    Console.WriteLine("A[{0}] : ", A);
                 }
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine(e.Message);
             }
         }
     }
